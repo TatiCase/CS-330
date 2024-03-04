@@ -1,0 +1,6 @@
+# How do I approach designing software?
+I usually start my software design process by doing the most in-depth analysis I can on the project requirements to get a clear picture of exactly what I'm working on. After that's finished, I start assigning tasks to each project component into bucket categories so that work can be distributed later. After that's finished, I get to work on developing the current items. During the two plus years I've worked in the CS industry, this strategy has proven to be very effective for me. 
+# How do I approach developing programs?
+In order to demonstrate to my client that the concept is workable and to solicit feedback for making the program as user-tailored as possible, I actually create a functional minimum-viable product before moving on to the actual software development process. It's just more of these dev/feedback cycles for the remainder of the development time.
+# How can computer science help me in reaching my goals?
+Computer Science can help me reach my goals of being a future video game designer because it is the very back boan of what I plan to do. Having these skills, escpecially the ones I have learned fr4om this course will help me get a job doing what I love. 
